@@ -1,2 +1,2 @@
 # Affiliate-marketing-video-creator-
-In affiliate marketing video creator that well put together stop clip videos, ready to be posted. Add social media apps. Has options like captioning place over for videos?
+an affiliate marketing video creator that will put together affiliate links and product videos, ready to be posted social media apps. Has options like captioning for videos
